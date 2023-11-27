@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Felix-svg
-- 👀 I’m interested in becoming a full-stack developer
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on various projects as i continue my learning journey
-- 📫 How to reach me. You can send me an email to felixomondi590@gmail.com
+Welcome to Felix's GitHub Profile 👋
+Hello there! I'm Felix, a passionate and aspiring software developer currently diving into the exciting world of code. This GitHub profile serves as a digital playground where I document my journey through the realms of software development. Feel free to explore, learn, and grow with me!
 
-<!---
-Felix-svg/Felix-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+🌱 I'm currently enrolled in a software development course, eager to absorb all the knowledge and skills the programming universe has to offer.
+🤔 I'm constantly exploring new concepts and technologies to expand my horizons.
+
+🛠️ Technologies & Tools
+Here are some of the technologies and tools I'm currently working with: HTML, CSS, JavaScript, React, Python.
+
+🌐 Connect with Me
+Let's connect! Feel free to reach out and share your insights, experiences, or just to say hi. I'm open to collaborations and always excited to meet fellow developers.
+@felixomondi_ on X
