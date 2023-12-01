@@ -1,13 +1,68 @@
-Welcome to Felix's GitHub Profile👋
-Hello there! I'm Felix, a passionate and aspiring software developer currently diving into the exciting world of code. This GitHub profile serves as a digital playground where I document my journey through the realms of software development. Feel free to explore, learn, and grow with me!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Felix' GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+        }
 
-🚀 About Me
-🌱 I'm currently enrolled in a software development course, eager to absorb all the knowledge and skills the programming universe has to offer.
-🤔 I'm constantly exploring new concepts and technologies to expand my horizons.
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
 
-🛠️ Technologies & Tools
-I am currently working with: HTML, CSS, JavaScript, React, Python.
+        img {
+            border-radius: 50%;
+            max-width: 150px;
+            height: auto;
+        }
 
-🌐 Connect with Me
-Let's connect! Feel free to reach out and share your insights, experiences, or just to say hi. I'm open to collaborations and always excited to meet fellow developers.
-@felixomondi_ on X
+        h1 {
+            color: #0366d6;
+        }
+
+        p {
+            color: #586069;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="your-profile-image-url.jpg" alt="Your Name">
+        <h1>Your Name</h1>
+        <p>Software Developer</p>
+        <p>Location: Your City, Country</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Write a brief description about yourself and your interests.
+        </p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>GitHub Repositories</h2>
+        <ul>
+            <li><a href="https://github.com/yourusername/repo1">Repository 1</a></li>
+            <li><a href="https://github.com/yourusername/repo2">Repository 2</a></li>
+            <!-- Add more repositories as needed -->
+        </ul>
+    </section>
+</body>
+</html>
