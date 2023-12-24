@@ -1,75 +1,49 @@
-<!DOCTYPE html>
-<html lang="en">
+# 👋 Welcome to My Developer Portfolio! 👩‍💻
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Felix's GitHub! 👋</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 20px;
-        }
+Hello there! I'm Felix Omondi, a budding software developer passionate about creating efficient and scalable solutions. This README serves as a snapshot of my skills, experiences, and the projects that define my journey.
 
-        header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
+## About Me
 
-        img {
-            border-radius: 50%;
-            max-width: 150px;
-            height: auto;
-        }
+- 📧 Email: felix.omondi1@student.moringaschool.com
+- 🐦 Twitter: [@felixomondi_](https://twitter.com/felixomondi_)
 
-        h1 {
-            color: #0366d6;
-        }
+## Skills
 
-        p {
-            color: #586069;
-        }
-    </style>
-</head>
+### Programming Languages
 
-<body>
-    <header>
-        <h1>Felix Omondi</h1>
-        <p>Software Developer</p>
-        <p>Location: Kenya</p>
-    </header>
+- JavaScript
 
-    <section>
-        <h2> Hello, I'm Felix! 👋</h2>
-        <p>
-            I'm a passionate Software Developer based in Kenya. I enjoy coding. Here's a bit about me:
-        <ul>
-            <li>🌱 I'm enrolled in a Software Development course.</li>
-            <li>⚡ I'm currently learning new technologies.</li>
-        </ul>
-        </p>
-    </section>
+### Web Technologies
 
-    <section>
-        <h2>🔧 Technologies and Tools</h2>
-        <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>Git</li>
-            <li>GitHub</li>
-            <!-- Add more skills as needed -->
-        </ul>
-    </section>
+- Frontend: HTML5, CSS3, Bootstrap
+  
+### Version Control
 
-    <section>
-        <h2>🚀 GitHub Repositories</h2>
-        <ul>
-            <li><a href="https://github.com/Felix-svg/rookie-szn" target="_blank">Repository 1</a></li>
-            <!-- Add more repositories as needed -->
-        </ul>
-        <p>Feel free to explore and provide feedback! 😄</p>
-    </section>
-</body>
+- Git
+- GitHub
 
-</html>
+### Development Tools
+
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [GitHub Desktop](https://desktop.github.com/)
+
+## Projects
+
+### Project 1: [NetSalary Calculator](https://github.com/Felix-svg/phase-1_week-1_Toy-Problems/blob/main/salary-calculator.js)
+
+- A program
+          whose major task is to calculate an individual’s Net Salary by
+          getting the inputs of basic salary and benefits. You can then
+          calculate the payee (i.e. Tax), NHIF Deductions, NSSF Deductions,
+          gross salary, and net salary.
+- JavaScript
+- Project Author
+
+## Contact
+
+Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
+
+- 📧 Email: felix.omondi1@student.moringaschool.com
+- 🐦 Twitter: [@felixomondi_](https://twitter.com/felixomondi_)
+
+Let's code and create awesome things together! 🚀
