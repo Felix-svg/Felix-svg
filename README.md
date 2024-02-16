@@ -3,7 +3,6 @@
 I'm Felix Omondi, a passionate, budding, Software Developer from Kenya. 
 
 - 🔭 I’m currently learning Software Development
-- 🌱 I’m currently learning JavaScript & Python.
 - 👯 I’m looking to collaborate on Team Projects & Open Source Projects.
 - 💬 Ask me about React Development.
 - 📫 How to reach me: Email: felix.omondi1@student.moringaschool.com
