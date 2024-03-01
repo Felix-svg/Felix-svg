@@ -2,13 +2,11 @@
 
 I'm Felix Omondi, a passionate, budding, Software Developer from Kenya. 
 
-- 🚀  I'm currently working towards being a full-stack engineer.
+- 🚀 I'm currently working towards being a full-stack engineer.
 - 💬 Ask me about anything
-- 📫 You can reach me via: felixomondi590@gmail.com
+- 📧 You can reach me via felixomondi590@gmail.com
 - 🤝 I'm open to collaborating on interesting projects
 - ⚡ Fun fact: I write code.
-
-![Profile views](https://komarev.com/ghpvc/?username=Felix-svg&color=green)
 
 ### Skills
 
@@ -18,7 +16,6 @@ I'm Felix Omondi, a passionate, budding, Software Developer from Kenya.
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
 
-### Badges
 #### My GitHub Stats
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Felix-svg&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
