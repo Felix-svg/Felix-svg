@@ -13,6 +13,7 @@ I'm Felix Omondi, a passionate, budding, Software Developer from Kenya.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-blue?logo=sql&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
 
