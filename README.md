@@ -6,11 +6,13 @@ I am Felix Omondi, a passionate Software Developer based in Nairobi, Kenya with 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-purple?logo=csharp&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-blue?logo=sql&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
+
 
 
 ### My GitHub Stats
